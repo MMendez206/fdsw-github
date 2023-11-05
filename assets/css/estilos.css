@@ -43,3 +43,7 @@ body {
 .navbar {
   background-color: #BDB76B;
 }
+
+.card-text {
+  text-align: justify;
+}
