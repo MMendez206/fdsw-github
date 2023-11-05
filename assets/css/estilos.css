@@ -5,11 +5,13 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  width: 100%;
+  height: 1050px;
+  background-image: url("../img/bg-hero-sec.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
-}
+  background-position: center;
+  }
 
 /* Mis trabajos */
 
