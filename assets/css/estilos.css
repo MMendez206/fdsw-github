@@ -11,7 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  }
+}
 
 /* Mis trabajos */
 
@@ -34,7 +34,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
@@ -46,4 +46,8 @@ body {
 
 .card-text {
   text-align: justify;
+}
+
+footer {
+  background-color: #BDB76B;
 }
